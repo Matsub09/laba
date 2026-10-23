@@ -1,2 +1,0 @@
-# laba
-laba po OAiP
